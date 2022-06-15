@@ -1,4 +1,4 @@
-- 👋 Hi, Ifeoluwapo Oluwande
+- 👋 Hi, Ifeoluwapo Kazeem Oluwande
 - 👀 I’m interested in Software Developments
 - 🌱 I’m currently learning Python and Web Developments
 - 💞️ I’m looking to collaborate on Python and Web Projects
