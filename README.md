@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Ifeoluwapo Kazeem Oluwande
-- 👀 I’m interested in Django, Node.js, Express.js and Web Projects
+- 👀 I’m interested in AI ChatBots, Django, Node.js, Express.js and Web Projects
 - 📫 You can reach me @ ioluwande@gmail.com
 
 <!---
